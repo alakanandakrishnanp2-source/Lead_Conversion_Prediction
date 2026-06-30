@@ -252,8 +252,7 @@ Lead-Conversion-Prediction/
 ├── Lead_Conversion_Prediction.ipynb
 ├── submission.csv
 ├── README.md
-│
-└── requirements.txt
+
 ```
 
 ---
